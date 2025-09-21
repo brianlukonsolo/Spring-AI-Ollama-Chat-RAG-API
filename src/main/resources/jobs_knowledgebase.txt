@@ -1,0 +1,49 @@
+1- Software Engineer – Distributed Systems
+Location: Denver, CO (Hybrid)
+Description: We’re building large-scale data platforms for real-time analytics in the logistics industry. You’ll design microservices, improve system reliability, and work with cross-functional teams to scale our event-driven architecture.
+Requirements: 4+ years in backend development, strong experience with Java/Kotlin, Kafka, and containerized deployments (Docker/Kubernetes). Familiarity with PostgreSQL or Cassandra preferred.
+
+2 - Machine Learning Engineer – Computer Vision
+Location: Toronto, ON
+Description: Looking for an engineer to build deep learning models for video analytics. You’ll collaborate with product teams to deploy vision-based AI solutions into cloud and edge environments.
+Requirements: 3+ years of ML experience, proficiency in PyTorch or TensorFlow, solid Python skills, and exposure to cloud GPUs (AWS/GCP).
+
+3 - Senior Product Manager – SaaS Security Platform
+Location: Remote (US/Canada)
+Description: Lead product strategy for our B2B cybersecurity platform. You’ll define roadmaps, conduct customer discovery, and partner with engineering on go-to-market execution.
+Requirements: 6+ years in product management, background in SaaS or cybersecurity, and strong experience with Agile methodologies.
+
+4 - UI/UX Designer – Healthcare Apps
+Location: Minneapolis, MN
+Description: Design user-centric workflows for telehealth applications. You’ll work closely with patients and clinicians to simplify digital experiences and improve accessibility.
+Requirements: 3+ years of UX/UI design, proficiency in Figma and accessibility standards (WCAG), and a portfolio highlighting mobile-first design.
+
+5 - Cloud Platform Engineer – Azure
+Location: London, UK
+Description: Join our fintech team to modernize infrastructure on Azure. Responsibilities include IaC, CI/CD automation, and ensuring compliance with security standards.
+Requirements: 5+ years in cloud engineering, expert in Azure services, and hands-on with Terraform, GitHub Actions, and monitoring tools like Datadog.
+
+6 - Full-Stack Developer – E-Commerce
+Location: Berlin, Germany
+Description: Build and scale e-commerce features across frontend and backend systems. You’ll optimize checkout flows, integrate payment gateways, and work with designers to refine the user journey.
+Requirements: 3+ years of full-stack development, proficiency with TypeScript, React, Node.js, and familiarity with relational databases (MySQL/Postgres).
+
+7 - Digital Marketing Manager – Growth Campaigns
+Location: Remote (Europe)
+Description: Lead growth marketing campaigns across SEO, paid media, and social. You’ll own budget allocation, run A/B tests, and provide performance analytics to leadership.
+Requirements: 4+ years in digital marketing, proven track record in B2B SaaS or consumer apps, and proficiency with Google Ads, LinkedIn Ads, and analytics platforms.
+
+8 - Business Analyst – Supply Chain
+Location: Atlanta, GA
+Description: Analyze processes and KPIs across our global supply chain operations. Collaborate with stakeholders to identify inefficiencies and implement technology-driven improvements.
+Requirements: 3+ years in business analysis, strong Excel/SQL skills, and familiarity with ERP systems like SAP or Oracle.
+
+9 - Frontend Engineer – Vue.js Specialist
+Location: Sydney, Australia
+Description: Build performant, mobile-friendly dashboards for an IoT energy platform. You’ll work closely with backend teams and UX designers to ship polished web features.
+Requirements: 2+ years in frontend development, advanced Vue.js knowledge, and strong CSS/HTML skills. Experience with D3.js or charting libraries is a plus.
+
+10 - AI Engineer – Conversational Systems
+Location: Remote (Global)
+Description: Develop and optimize chatbot and voice assistant models for enterprise clients. Focus areas include intent recognition, multilingual support, and dialogue flow design.
+Requirements: 2–4 years of NLP/AI development, Python expertise, experience with Rasa or Dialogflow, and familiarity with LLMs (e.g., GPT, LLaMA).

@@ -29,7 +29,7 @@ services:
       - ollama:/root/.ollama
     entrypoint: ["/bin/sh", "-lc"]
     command: >
-      "ollama pull llama3.2 && echo 'llama3.2 ready'"
+      "ollama pull mistral && echo 'mistral ready'"
 
   # --- Your Spring Boot app ---
   spring-app:
@@ -41,8 +41,8 @@ services:
       # talk to Ollama by container name on the internal network
       SPRING_AI_OLLAMA_BASE_URL: http://ollama:11434
 
-      # (optional) set default chat model to llama3.2 via env
-      SPRING_AI_OLLAMA_CHAT_OPTIONS_MODEL: llama3.2
+      # (optional) set default chat model to mistral via env
+      SPRING_AI_OLLAMA_CHAT_OPTIONS_MODEL: mistral
 
       # (keep your existing settings)
       SPRING_AI_VECTORSTORE_CHROMA_CLIENT_HOST: http://chroma
