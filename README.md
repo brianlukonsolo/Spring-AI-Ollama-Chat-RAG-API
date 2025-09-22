@@ -3,7 +3,11 @@ The bare minimum setup required to chat with your locally running Ollama AI mode
 
 ## Architecture
 
-<img src="documents/architecture.png" alt="Architecture" width="600">
+<p align="center">
+  <a href="documents/architecture.png">
+    <img src="documents/architecture.png" alt="Architecture" width="600">
+  </a>
+</p>
 
 ## Pre-requisites:
 
