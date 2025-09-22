@@ -23,7 +23,7 @@ Download and install Ollama
 This will allow you to run AI models locally on your computer. See documentation here:
 - https://docs.ollama.com/
 
-Pull a model by running the followind command in your CMD prompt:
+Pull a model by running the following command in your CMD prompt:
 - ```ollama pull mistral```
 
 Make sure you also have mistral as it is the default used by Spring AI
