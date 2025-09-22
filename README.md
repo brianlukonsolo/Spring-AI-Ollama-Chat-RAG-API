@@ -1,6 +1,10 @@
 # Spring AI - Ollama Chat with Retrieval Augmented Generation (RAG)
 The bare minimum setup required to chat with your locally running Ollama AI models using Retrieval-Augmented Generation (RAG). Any file you provide containing private or domain-specific knowledge is stored in the ChromaDB vector store, and the Large Language Model leverages that context to generate responses. This is particularly useful when you need to ask about the details of a contract or request a summary of a report. At present, the project supports .txt files, but it can be easily extended to handle other formats such as PDF, CSV, Excel, and Word documents.
 
+## Architecture
+
+<img src="documents/architecture.png" alt="Architecture" width="600">
+
 ## Pre-requisites:
 
 - Java 21
